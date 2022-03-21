@@ -1,4 +1,4 @@
-Sabin Dhakal
-Pratik Rayamajhi
-Sujan Chaulagain
-Biraj Shakya
+Sabin Dhakal(Business Analyst)
+Pratik Rayamajhi(Developer)
+Sujan Chaulagain(Developer / Team Leader)
+Biraj Shakya(Project Manager)
